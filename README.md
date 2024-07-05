@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Merina Rahaman Mou</h1>
 <h3 align="center">A passionate Full stuck developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/MerinaMou110/MerinaMou110/assets/122225168/466ad310-57c6-45c8-ab9a-9dd9c9d4a399)
+<img align="right" alt="coding" width="400" src="[![image](https://github.com/MerinaMou110/MerinaMou110/assets/122225168/466ad310-57c6-45c8-ab9a-9dd9c9d4a399)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2q8Wy5D9ZN_IJN7m4uLrbX&ust=1720291084492000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjN0fbFkIcDFQAAAAAdAAAAABAE)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merinamou110&label=Profile%20views&color=0e75b6&style=flat" alt="merinamou110" /> </p>
 
