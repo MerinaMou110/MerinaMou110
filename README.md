@@ -48,14 +48,15 @@
 ## 📊 GitHub Stats:
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=MerinaMou110&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MerinaMou110&theme=radical&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MerinaMou110&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MerinaMou110&theme=radical&hide_border=false" alt="GitHub Streak" />
+  
 </div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MerinaMou110&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+ ### ✍️ Random Dev Quote
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
